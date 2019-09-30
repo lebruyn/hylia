@@ -1,5 +1,5 @@
 ---
-title: A simple post
+title: A simple blogpost using Hylia.
 date: '2019-06-18'
 tags:
   - demo-content
