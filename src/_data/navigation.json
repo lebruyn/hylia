@@ -7,12 +7,12 @@
     },
     {
       "text": "About",
-      "url": "opdracht-1.netlify.com/more-about-me",
+      "url": "about",
       "external": false
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/andybelldesign",
+      "text": "Contact",
+      "url": "contact",
       "external": true
     }
   ]
